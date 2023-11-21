@@ -89,6 +89,7 @@
   font-size: 1rem;
   margin: 0.5rem 0.5rem 0.5rem 0rem;
   padding: 0.5rem 0.7rem;
+  border-radius: 5px;
 }
 
 .prev:hover,
